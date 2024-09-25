@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    list-style-position: inside;
+    list-style-image: url(C:/Users/Admin/Downloads/right.png);
+    border: 2px solid red;
+}
+
+ul li{
+    padding: 3px 0;
+}
+
+body{
+    background-color: tan;
+}
+
+#box{
+    border: 2px solid red;
+    height: 600px;
+    width: 500px; 
+    background-image: url(flower.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    color: white;
+}
+
+ol{
+    list-style: armenian inside;
+}
+ol li{
+    padding: 3px 0;
+}
+body{
+    background-image: url(flower.jpg);
+    background-size: 150px;
+    background-position: right top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
